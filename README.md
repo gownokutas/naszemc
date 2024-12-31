@@ -1,0 +1,2 @@
+# naszemc
+A Minecraft Server
